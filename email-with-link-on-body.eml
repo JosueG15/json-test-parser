@@ -1,0 +1,11 @@
+Subject: JSON Link Email
+From: sender@example.com
+To: recipient@example.com
+Content-Type: text/plain; charset="UTF-8"
+
+Hello,
+
+Please find the JSON data here: https://tools.learningcontainer.com/sample-json-file.json
+
+Best,
+Sender
