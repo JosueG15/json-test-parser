@@ -43,11 +43,3 @@ This project employs a Test-Driven Development (TDD) approach. You can run the t
 ```bash
 npm run test
 ```
-
-## Contributing
-
-Feel free to fork the repository, create a feature branch, and open a Pull Request if you have enhancements or bug fixes you'd like to contribute.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
