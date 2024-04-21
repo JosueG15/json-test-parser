@@ -1,8 +1,8 @@
 {
-  "name": "designii-challenge",
+  "name": "boxful-challenge",
   "version": "0.0.1",
-  "description": "",
-  "author": "",
+  "description": "Boxful Challenge",
+  "author": "Josue Palacios",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
